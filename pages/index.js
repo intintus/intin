@@ -125,7 +125,7 @@ export default function Home({ products, featuredProducts }) {
           <div data-aos="fade-up-right">
             <Image src={rea} className="w-full justify-center h-96" alt="..." />
             <button className="absolute text-5xl text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-              KindaCode.com
+              Ready To Wear
             </button>
           </div>
         </div>
